@@ -1,0 +1,4 @@
+# foreman start -f Procfile.dev
+
+web: rails s
+webpack: npm run webpack
